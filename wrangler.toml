@@ -5,3 +5,7 @@ account_id = ""
 workers_dev = true
 route = ""
 zone_id = ""
+
+kv_namespaces = [
+  { binding = "LANDLORD_KV", id = "a1e3e8e367804c999ae308a1326ad3f9", preview_id = "a1e3e8e367804c999ae308a1326ad3f9" }
+]
